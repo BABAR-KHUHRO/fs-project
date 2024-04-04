@@ -1,5 +1,5 @@
-# Commands To run in terminal
-
+# Steps to follow 
+## Commands To run in terminal
 ```Terminal
 npm init
 git init
